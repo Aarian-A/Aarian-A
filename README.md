@@ -55,7 +55,7 @@ In my free time I dabble in the world of IOT, crypto and blockchain technology, 
 - Databases:
 
   <a href="https://dev.mysql.com/doc/" target="_blank"> 
-<img alt="SQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> </a>
+<img alt="SQL" src="https://img.shields.io/badge/MySQL-4233FF?style=for-the-badge&logo=mysql&logoColor=white"> </a>
  &emsp;
   <a href="https://docs.aws.amazon.com/" target="_blank"> 
 <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"> </a>
