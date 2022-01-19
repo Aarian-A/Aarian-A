@@ -83,7 +83,9 @@ In my free time I dabble in the world of IOT, crypto and blockchain technology, 
 <hr>
 
  <h4 align="center"> 
-Feel free to connect with me! I am always open for more collaboration on projects and to increase my arsenal of languages :) <br> Thank you for checking out my page! 
+Feel free to connect with me! I am always open for more collaboration on projects and to increase my arsenal of languages :) <br> 
+  <br>
+  Thank you for checking out my page! 
 </h4>
 
 
