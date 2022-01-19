@@ -27,10 +27,10 @@ In my free time I dabble in the world of IOT, crypto and blockchain technology, 
  &emsp;
  
  <span>&#8627;</span>
- ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
- ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
- ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
- ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+ ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  &emsp;
+ ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  &emsp;
+ ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  &emsp;
+ ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)  &emsp;
  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 - Front End Development:
 
@@ -80,6 +80,12 @@ In my free time I dabble in the world of IOT, crypto and blockchain technology, 
 <a href="https://html.com/" target="_blank"> 
 <img alt="Shell Script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"> </a>
 
+<hr>
+
+ <h4 align="center"> 
+Feel free to connect with me! I am always open for more collaboration on projects and to increase my arsenal of languages :) <br> Thank you for checking out my page! 
+</h4>
+
 
  ### Socials:
  
@@ -88,6 +94,12 @@ In my free time I dabble in the world of IOT, crypto and blockchain technology, 
 &emsp;
  <a href="https://html.com/" target="_blank"> 
 <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
+
+<!---
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aarian-a&theme=dracula)](https://github.com/aarian-a/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aarian-a&layout=compact&theme=dracula)](https://github.com/aarian-a/github-readme-stats)
+--->
 
  ### PC Specs:
   <a href="https://html.com/" target="_blank"> 
@@ -100,17 +112,7 @@ In my free time I dabble in the world of IOT, crypto and blockchain technology, 
   💾 Storage: 120 GB SSD, 1 TB HDD <br>
   🔌 PSU: 430W
   <br>
-  <p align="center"> 
-Thank you for checking out my page!
-	
-![Profile views](https://gpvc.arturio.dev/Aarian-A)  
-	
-</p>
-
-
-<!---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aarian-a&theme=dracula)](https://github.com/aarian-a/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aarian-a&layout=compact&theme=dracula)](https://github.com/aarian-a/github-readme-stats)
---->
+  <br>
+  
+  ![Profile views](https://gpvc.arturio.dev/Aarian-A)  
   
