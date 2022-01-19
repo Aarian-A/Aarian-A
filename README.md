@@ -1,10 +1,13 @@
 <h1 align= "center"> Hello! I am Aarian Ahsan 👋 </h1>
 
+ <p align="center"> <img src="https://github.com/Aarian-A/Aarian-A/blob/main/colorado.jpeg?raw=true" alt="coding" width="820" height="280" /> </p>
 <!--- bruh --->
 
 I am an undergraduate student at the University of Texas at Dallas currently studying towards Computer Science. I enjoy learning languages and frameworks like Next.js and React. I also enjoy front end design (ui/ux), and artificial intelligence in general.
 
 In my free time I dabble in the world of IOT, crypto and blockchain technology, cars, video games, music, PC building, anime, physical fitness, and *streamlining* my life with code 😎 <br>
+
+<hr>
 
 ### My Skills:
 - Programming Languages:
