@@ -91,8 +91,8 @@ Feel free to connect with me! I am always open for more collaboration on project
 
  ### Socials:
  
-  <a href="aarianahsan@gmail.com" target="_blank"> 
-<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
+<a href="aarianahsan@gmail.com" target="_blank">
+<img alt="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
 &emsp;
  <a href="https://www.linkedin.com/in/aarian-ahsan/" target="_blank"> 
 <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
