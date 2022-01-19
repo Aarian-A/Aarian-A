@@ -81,7 +81,7 @@ In my free time I dabble in the world of IOT, crypto and blockchain technology, 
 
 <span>&#8627;</span>
 <a href="https://devdocs.io/bash/" target="_blank"> 
-<img alt="Shell Script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"> </a>
+<img alt="Shell Script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white&color=<violet>"> </a>
 
 <hr>
 
