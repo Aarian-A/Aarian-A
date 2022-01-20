@@ -1,3 +1,20 @@
+<!--
+
+<h1 align= "center">
+
+ <a href="https://github.com/aarian-a/sado-bot">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=aarian-a&repo=sado-bot&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+&emsp;
+ <a href="https://github.com/aarian-a/sado-bot">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=aarian-a&repo=sado-bot&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aarian-a&repo=sado-bot&theme=dracula&)](https://github.com/Aarian-A/sado-bot#readme)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kushb007&repo=askcomets&theme=dracula)](https://github.com/kushb007/askcomets)
+
+</h1>
+-->
+
 <h1 align= "center"> Hello! I am Aarian Ahsan 👋 </h1>
 
  <p align="center"> <img src="https://github.com/Aarian-A/Aarian-A/blob/main/colorado.jpeg?raw=true" alt="coding" width="820" height="280" /> </p>
@@ -100,12 +117,6 @@ Feel free to connect with me! I am always open for more collaboration on project
  <a href="https://www.linkedin.com/in/aarian-ahsan/" target="_blank"> 
 <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
 
-<!---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aarian-a&theme=dracula)](https://github.com/aarian-a/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aarian-a&layout=compact&theme=dracula)](https://github.com/aarian-a/github-readme-stats)
---->
-
  ### PC Specs:
   <a href="https://www.amd.com/en/products/cpu/amd-ryzen-3-1300x" target="_blank"> 
 <img alt="R3" src="https://img.shields.io/badge/AMD-Ryzen_3_1300X-ED1C24?style=for-the-badge&logo=amd&logoColor=white"> </a>
@@ -117,6 +128,19 @@ Feel free to connect with me! I am always open for more collaboration on project
   💾 Storage: 120 GB SSD, 1 TB HDD <br>
   🔌 PSU: 430W
   <br>
+  <br>
+  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aarian-a&theme=dracula)](https://github.com/aarian-a/github-readme-stats)
+  
+  <br>
+  
+  <!--
+   <a href="https://github.com/braydoncoyer">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braydoncoyer&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+-->
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aarian-a&layout=compact&theme=dracula)](https://github.com/aarian-a/github-readme-stats)
   <br>
   
   ![Profile views](https://gpvc.arturio.dev/Aarian-A)  
