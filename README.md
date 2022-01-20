@@ -1,4 +1,4 @@
-<!--
+
 
 <h1 align= "center">
 
@@ -6,14 +6,14 @@
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=aarian-a&repo=sado-bot&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 &emsp;
- <a href="https://github.com/aarian-a/sado-bot">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=aarian-a&repo=sado-bot&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+ <a href="https://github.com/kushb007/askcomets">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kushb007&repo=askcomets&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-
+<!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aarian-a&repo=sado-bot&theme=dracula&)](https://github.com/Aarian-A/sado-bot#readme)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kushb007&repo=askcomets&theme=dracula)](https://github.com/kushb007/askcomets)
-
-</h1>
 -->
+</h1>
+
 
 <h1 align= "center"> Hello! I am Aarian Ahsan 👋 </h1>
 
@@ -130,7 +130,7 @@ Feel free to connect with me! I am always open for more collaboration on project
   <br>
   <br>
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aarian-a&theme=dracula)](https://github.com/aarian-a/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aarian-a&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/aarian-a/github-readme-stats)
   
   <br>
   
@@ -140,7 +140,7 @@ Feel free to connect with me! I am always open for more collaboration on project
 </a>
 -->
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aarian-a&layout=compact&theme=dracula)](https://github.com/aarian-a/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aarian-a&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/aarian-a/github-readme-stats)
   <br>
   
   ![Profile views](https://gpvc.arturio.dev/Aarian-A)  
