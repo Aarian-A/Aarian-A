@@ -18,7 +18,7 @@
 <h1 align= "center"> Hello! I am Aarian Ahsan 👋 </h1>
 
  <p align="center"> <img src="https://github.com/Aarian-A/Aarian-A/blob/main/colorado.jpeg?raw=true" alt="coding" width="820" height="280" /> </p>
-<!--- bruh --->
+
 
 I am an undergraduate student at the University of Texas at Dallas currently studying towards Computer Science. I enjoy learning languages and frameworks like Next.js and React. I also enjoy front end design (ui/ux), and artificial intelligence in general.
 
@@ -47,11 +47,17 @@ In my free time I dabble in the world of IOT, crypto and blockchain technology, 
  &emsp;
  
  <span>&#8627;</span>
- ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  <span>&#8211;</span>
- ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  <span>&#8211;</span>
- ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  <span>&#8211;</span>
- ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)  <span>&#8211;</span>
- ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+ <a href="https://numpy.org/doc/" target="_blank"> 
+<img alt="Numpy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"> </a> <span>&#8211;</span>
+<a href="https://pandas.pydata.org/docs/" target="_blank"> 
+<img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"> </a> <span>&#8211;</span>
+<a href="https://www.tensorflow.org/api_docs" target="_blank"> 
+<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"> </a> <span>&#8211;</span>
+<a href="https://keras.io/" target="_blank"> 
+<img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"> </a> <span>&#8211;</span>
+<a href="https://pytorch.org/docs/stable/index.html" target="_blank"> 
+<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"> </a> 
+
 - Front End Development:
 
   <a href="https://html.com/" target="_blank"> 
@@ -85,8 +91,8 @@ In my free time I dabble in the world of IOT, crypto and blockchain technology, 
   <a href="https://kotlinlang.org/docs/home.html" target="_blank"> 
 <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"> </a>
 &emsp;
-<a href="https://html.com/" target="_blank"> 
-<img alt="Blender" src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"> </a>
+<a href="https://www.raspberrypi.org/" target="_blank"> 
+<img alt="Raspi" src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"> </a>
 &emsp;
 <a href="https://docs.blender.org/" target="_blank"> 
 <img alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"> </a>
