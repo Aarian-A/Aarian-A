@@ -26,6 +26,8 @@ In my free time I dabble in the world of IOT, crypto and blockchain technology, 
 
 <hr>
 
+![Profile views](https://gpvc.arturio.dev/Aarian-A)  
+
 ### My Skills:
 - Programming Languages:
 
@@ -147,7 +149,3 @@ Feel free to connect with me! I am always open for more collaboration on project
 -->
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aarian-a&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/aarian-a/github-readme-stats)
-  <br>
-  
-  ![Profile views](https://gpvc.arturio.dev/Aarian-A)  
-  
