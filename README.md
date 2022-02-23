@@ -130,11 +130,11 @@ Feel free to connect with me! I am always open for more collaboration on project
 <img alt="R3" src="https://img.shields.io/badge/AMD-Ryzen_3_1300X-ED1C24?style=for-the-badge&logo=amd&logoColor=white"> </a>
   <br>
   <a href="https://www.nvidia.com/en-us/geforce/graphics-cards/gt-1030/specifications/" target="_blank"> 
-<img alt="GT1030" src="https://img.shields.io/badge/NVIDIA-GTX1030-76B900?style=for-the-badge&logo=nvidia&logoColor=white"> </a>
+<img alt="RTX3050" src="https://img.shields.io/badge/NVIDIA-RTX3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"> </a>
   <br>
   ⚡️ RAM: 16 GB DDR4 3200 MHz <br>
   💾 Storage: 120 GB SSD, 1 TB HDD <br>
-  🔌 PSU: 430W
+  🔌 PSU: 600W
   <br>
   <br>
   
