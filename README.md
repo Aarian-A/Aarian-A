@@ -126,8 +126,8 @@ Feel free to connect with me! I am always open for more collaboration on project
 <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
 
  ### PC Specs:
-  <a href="https://www.amd.com/en/products/cpu/amd-ryzen-3-1300x" target="_blank"> 
-<img alt="R3" src="https://img.shields.io/badge/AMD-Ryzen_3_1300X-ED1C24?style=for-the-badge&logo=amd&logoColor=white"> </a>
+  <a href="https://www.amd.com/en/products/cpu/amd-ryzen-5-5600x" target="_blank"> 
+<img alt="R3" src="https://img.shields.io/badge/AMD-Ryzen_5_5600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white"> </a>
   <br>
   <a href="https://www.nvidia.com/en-us/geforce/graphics-cards/gt-1030/specifications/" target="_blank"> 
 <img alt="RTX3050" src="https://img.shields.io/badge/NVIDIA-RTX3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"> </a>
