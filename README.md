@@ -54,12 +54,7 @@ In my free time I dabble in the world of IOT, crypto and blockchain technology, 
 <a href="https://pandas.pydata.org/docs/" target="_blank"> 
 <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"> </a> <span>&#8211;</span>
 <a href="https://www.tensorflow.org/api_docs" target="_blank"> 
-<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"> </a> <span>&#8211;</span>
-<a href="https://keras.io/" target="_blank"> 
-<img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"> </a> <span>&#8211;</span>
-<a href="https://pytorch.org/docs/stable/index.html" target="_blank"> 
-<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"> </a> 
-
+<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"> </a> 
 - Front End Development:
 
   <a href="https://html.com/" target="_blank"> 
@@ -86,13 +81,6 @@ In my free time I dabble in the world of IOT, crypto and blockchain technology, 
 <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"> </a>
 
 - Budding User In:
-
-  <a href="https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/" target="_blank"> 
-<img alt="Spring" src="https://img.shields.io/badge/Spring--boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> </a>
-&emsp;
-  <a href="https://kotlinlang.org/docs/home.html" target="_blank"> 
-<img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"> </a>
-&emsp;
 <a href="https://www.raspberrypi.org/" target="_blank"> 
 <img alt="Raspi" src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"> </a>
 &emsp;
@@ -103,10 +91,6 @@ In my free time I dabble in the world of IOT, crypto and blockchain technology, 
   <a href="https://archlinux.org/packages/extra/x86_64/ell/" target="_blank"> 
 <img alt="ARCHLINUX" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"> </a>
 &emsp;
-
-<span>&#8627;</span>
-<a href="https://devdocs.io/bash/" target="_blank"> 
-<img alt="Shell Script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white&color=<violet>"> </a>
 
 <hr>
 
