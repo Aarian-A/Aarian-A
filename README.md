@@ -122,7 +122,7 @@ Feel free to connect with me! I am always open for more collaboration on project
   <br>
   <br>
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aarian-a&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/aarian-a/github-readme-stats)
+  [![Aarian's GitHub stats](https://github-readme-stats.vercel.app/api?username=aarian-a&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/aarian-a/github-readme-stats)
   
   <br>
   
@@ -133,3 +133,5 @@ Feel free to connect with me! I am always open for more collaboration on project
 -->
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aarian-a&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/aarian-a/github-readme-stats)
+
+[![@aarian's Holopin board](https://holopin.io/api/user/board?user=aarian)](https://holopin.io/@aarian)
