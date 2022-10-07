@@ -5,7 +5,7 @@
  <a href="https://github.com/SameerIslam/pepsicohackdfw">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Sameerislam&repo=pepsicohackdfw&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-&emsp;&emsp;&emsp;
+&emsp;&emsp;
  <a href="https://github.com/acm-projects/FIRE-Up">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=acm-projects&repo=FIRE-Up&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
@@ -21,7 +21,7 @@
  <p align="center"> <img src="https://github.com/Aarian-A/Aarian-A/blob/main/colorado.jpeg?raw=true" alt="coding" width="820" height="280" /> </p>
 
 
-I am an undergraduate student at the University of Texas at Dallas currently studying towards Computer Science. I enjoy learning languages and frameworks like Next.js and React. I also enjoy front end design (ui/ux), and artificial intelligence in general.
+I am an undergraduate student at the University of Texas at Dallas currently studying towards Computer Science. I enjoy learning languages and frameworks like Next.js & React. I also enjoy front end design (ui/ux) and artificial intelligence in general.
 
 In my free time I dabble in the world of IOT, crypto and blockchain technology, cars, video games, music, PC building, anime, physical fitness, and *streamlining* my life with code 😎 <br>
 
