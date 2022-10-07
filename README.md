@@ -1,14 +1,15 @@
 
 
 <h1 align= "center">
-   <!--
+   
  <a href="https://github.com/SameerIslam/pepsicohackdfw">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Sameerislam&repo=pepsicohackdfw&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-&emsp;
+&emsp;&emsp;&emsp;
  <a href="https://github.com/acm-projects/FIRE-Up">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=acm-projects&repo=FIRE-Up&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
+
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aarian-a&repo=sado-bot&theme=dracula&)](https://github.com/Aarian-A/sado-bot#readme)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kushb007&repo=askcomets&theme=dracula)](https://github.com/kushb007/askcomets)
 -->
