@@ -25,7 +25,7 @@ In my free time I dabble in the world of IOT, crypto and blockchain technology, 
 
 <hr>
 
-![Profile views](https://gpvc.arturio.dev/Aarian-A)  
+![Profile views](https://gpvc.arturio.dev/Aarian-A)
 
 ### My Skills:
 - Programming Languages:
@@ -62,12 +62,11 @@ In my free time I dabble in the world of IOT, crypto and blockchain technology, 
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> 
 <img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"> </a>
  &emsp;
- 
-  <a href="https://reactjs.org/docs/getting-started.html" target="_blank"> 
-<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white"> </a>
- &emsp;
- 
- <span>&#8627;</span>
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&emsp;![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+&emsp;
+
+<span>&#8627;</span>
   <a href="https://mui.com/" target="_blank"> 
 <img alt="MUI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"> </a>
 
@@ -79,17 +78,14 @@ In my free time I dabble in the world of IOT, crypto and blockchain technology, 
   <a href="https://docs.aws.amazon.com/" target="_blank"> 
 <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"> </a>
 
-- Budding User In:
+- Budding User In:<br>
 <a href="https://www.raspberrypi.org/" target="_blank"> 
 <img alt="Raspi" src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"> </a>
 &emsp;
-<a href="https://docs.blender.org/" target="_blank"> 
-<img alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"> </a>
-&emsp;
 
-  <a href="https://archlinux.org/packages/extra/x86_64/ell/" target="_blank"> 
-<img alt="ARCHLINUX" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"> </a>
-&emsp;
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+&emsp;<a href="https://docs.blender.org/" target="_blank"> 
+<img alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"> </a>
 
 <hr>
 
@@ -121,6 +117,10 @@ Feel free to connect with me! I am always open for more collaboration on project
   <br>
   <br>
   
+ ### My Consoles: <br>
+![Wii](https://img.shields.io/badge/Wii-8B8B8B?style=for-the-badge&logo=wii&logoColor=white)
+![3DS](https://img.shields.io/badge/3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white)
+![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
    <!--
   [![Aarian's GitHub stats](https://github-readme-stats.vercel.app/api?username=aarian-a&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/aarian-a/github-readme-stats)
   
