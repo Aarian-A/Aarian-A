@@ -19,13 +19,11 @@
  <p align="center"> <img src="https://github.com/Aarian-A/Aarian-A/blob/main/colorado.jpeg?raw=true" alt="coding" width="820" height="280" /> </p>
 
 
-I am an undergraduate student at the University of Texas at Dallas currently studying towards Computer Science. I enjoy learning languages and frameworks like Next.js & React. I also enjoy front end design (ui/ux) and artificial intelligence in general.
+I am an undergraduate student at The University of Texas at Dallas currently studying Computer Science. I enjoy learning languages and frameworks like Next.js & React. I also enjoy learning about front-end development (UI/UX) and artificial intelligence.
 
-In my free time I dabble in the world of IOT, crypto and blockchain technology, cars, video games, music, PC building, anime, physical fitness, and *streamlining* my life with code 😎 <br>
+In my free time, I dabble in the world of cars, video games, music, PC building, anime, physical fitness, and *streamlining* my life with code 😎 <br>
 
 <hr>
-
-![Profile views](https://gpvc.arturio.dev/Aarian-A)
 
 ### My Skills:
 - Programming Languages:
